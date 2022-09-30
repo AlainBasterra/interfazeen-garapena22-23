@@ -46,6 +46,7 @@
             this.lblZenbakia.Size = new System.Drawing.Size(170, 35);
             this.lblZenbakia.TabIndex = 0;
             this.lblZenbakia.Text = "Zenbakia 1";
+            this.lblZenbakia.Click += new System.EventHandler(this.lblZenbakia_Click);
             // 
             // txtZenb
             // 

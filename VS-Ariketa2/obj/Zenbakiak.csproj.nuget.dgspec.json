@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alain\\Documents\\GitHub\\VS-Ariketa2\\Zenbakiak.csproj": {}
+    "C:\\Users\\basterra.alain\\Documents\\GitHub\\interfazeen-garapena22-23\\VS-Ariketa2\\Zenbakiak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alain\\Documents\\GitHub\\VS-Ariketa2\\Zenbakiak.csproj": {
+    "C:\\Users\\basterra.alain\\Documents\\GitHub\\interfazeen-garapena22-23\\VS-Ariketa2\\Zenbakiak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alain\\Documents\\GitHub\\VS-Ariketa2\\Zenbakiak.csproj",
+        "projectUniqueName": "C:\\Users\\basterra.alain\\Documents\\GitHub\\interfazeen-garapena22-23\\VS-Ariketa2\\Zenbakiak.csproj",
         "projectName": "Zenbakiak",
-        "projectPath": "C:\\Users\\alain\\Documents\\GitHub\\VS-Ariketa2\\Zenbakiak.csproj",
-        "packagesPath": "C:\\Users\\alain\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alain\\Documents\\GitHub\\VS-Ariketa2\\obj\\",
+        "projectPath": "C:\\Users\\basterra.alain\\Documents\\GitHub\\interfazeen-garapena22-23\\VS-Ariketa2\\Zenbakiak.csproj",
+        "packagesPath": "C:\\Users\\basterra.alain\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\basterra.alain\\Documents\\GitHub\\interfazeen-garapena22-23\\VS-Ariketa2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\alain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\basterra.alain\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

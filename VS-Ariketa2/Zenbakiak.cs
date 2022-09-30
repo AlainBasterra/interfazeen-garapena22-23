@@ -8,20 +8,19 @@ namespace Zenbakiak
 {
     public class Zenbakiak
     {
-        float[] zenbakiak = new float[4];
-        public float[] Zenbakiak
-        {
-            get { return zenbakiak; }
-            set { zenbakiak = value; }
-        }
+        public float zenb { get; set; }
+        public float zenb2 { get; set; }
+        public float zenb3 { get; set; }
+        public float zenb4 { get; set; }
+
         public Zenbakiak()
         {
 
         }
-        public static float eragiketa(List<Zenbakiak> znbk)
+        public static float eragiketa(List<Zenbakiak> zen)
         {
             float emaitza = 0;
-            emaitza = (znbk[0].zenbakiak + (2 * znbk[1].zenbakiak) + (3 * znbk[2].zenbakiak) + (4 * znbk[3].zenbakiak)) / 4;
+            emaitza = (zen[0].zenb + (2 * zen[1].zenb) + (3 * zen[2].zenb) + (4 * zen[3].zenb)) / 4;
             return emaitza;
         }
     }
