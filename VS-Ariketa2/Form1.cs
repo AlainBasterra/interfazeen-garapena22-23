@@ -2,7 +2,7 @@ namespace Zenbakiak
 {
     public partial class Form1 : Form
     {
-        List<Zenbakiak> zen = new List<Zenbakiak> ();
+        List<Zenbakiak> zenb = new List<Zenbakiak> ();
         public Form1()
         {
             InitializeComponent();
@@ -33,7 +33,7 @@ namespace Zenbakiak
             {
                 case "zenbakia 1":
                     try {
-                        zen[0].zenb = float.Parse(this.txtZenb.Text);
+                        zenb[0].zenb = float.Parse(this.txtZenb.Text);
                         this.lblZenbakia.Text = "Zenbakia 2";
                         this.txtZenb.Text = "";
                         this.txtZenb.Focus();
@@ -45,7 +45,7 @@ namespace Zenbakiak
                 case "zenbakia 2":
                     try
                     {
-                        zen[1].zenb2 = float.Parse(this.txtZenb.Text);
+                        zenb[1].zenb2 = float.Parse(this.txtZenb.Text);
                     this.lblZenbakia.Text = "Zenbakia 3";
                     this.txtZenb.Text = "";
                     this.txtZenb.Focus();
@@ -57,7 +57,7 @@ namespace Zenbakiak
                 case "zenbakia 3":
                     try
                     {
-                        zen[2].zenb3 = float.Parse(this.txtZenb.Text);
+                        zenb[2].zenb3 = float.Parse(this.txtZenb.Text);
                     this.lblZenbakia.Text = "Zenbakia 4";
                     this.txtZenb.Text = "";
                     this.txtZenb.Focus();
@@ -69,10 +69,10 @@ namespace Zenbakiak
                 case "zenbakia 4":
                     try
                     {
-                        zen[3].zenb4 = float.Parse(this.txtZenb.Text);
+                        zenb[3].zenb4 = float.Parse(this.txtZenb.Text);
                     this.txtZenb.Text = "";
                     this.lblZenbakia.Text = "Eragiketa";
-                    this.txtZenb.Text = "(" + zen[0].zenb + " + " + "(2 x " + zen[1].zenb2 + ") +" + "(3 x " + zen[2].zenb3 + ") + " + "(4 x " + zen[3].zenb4 + ")) / 4 = " + Zenbakiak.eragiketa(zen);
+                    this.txtZenb.Text = "(" + zenb[0].zenb + " + " + "(2 x " + zenb[1].zenb2 + ") +" + "(3 x " + zenb[2].zenb3 + ") + " + "(4 x " + zenb[3].zenb4 + ")) / 4 = " + Zenbakiak.eragiketa(zenb);
                     }
                     catch (Exception ex)
                     { MessageBox.Show("zenbaki bat sartu behar dozu. " + ex.Message); }
