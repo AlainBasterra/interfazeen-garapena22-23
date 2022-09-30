@@ -32,6 +32,7 @@ namespace Zenbakiak
             switch (this.lblZenbakia.Text.ToLower())
             {
                 case "zenbakia 1":
+                    zenb.Add(new Zenbakiak());
                     try {
                         zenb[0].zenb = float.Parse(this.txtZenb.Text);
                         this.lblZenbakia.Text = "Zenbakia 2";
@@ -43,6 +44,7 @@ namespace Zenbakiak
 
                     break;
                 case "zenbakia 2":
+                    zenb.Add(new Zenbakiak());
                     try
                     {
                         zenb[1].zenb2 = float.Parse(this.txtZenb.Text);
@@ -55,6 +57,7 @@ namespace Zenbakiak
 
                     break;
                 case "zenbakia 3":
+                    zenb.Add(new Zenbakiak());
                     try
                     {
                         zenb[2].zenb3 = float.Parse(this.txtZenb.Text);
@@ -67,6 +70,7 @@ namespace Zenbakiak
 
                     break;
                 case "zenbakia 4":
+                    zenb.Add(new Zenbakiak());
                     try
                     {
                         zenb[3].zenb4 = float.Parse(this.txtZenb.Text);

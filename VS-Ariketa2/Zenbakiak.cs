@@ -20,7 +20,8 @@ namespace Zenbakiak
         public static float eragiketa(List<Zenbakiak> znbk)
         {
             float emaitza = 0;
-            emaitza = (znbk[0].zenb + (2 * znbk[1].zenb) + (3 * znbk[2].zenb) + (4 * znbk[3].zenb)) / 4;
+            emaitza = znbk[0].zenb + (2 * znbk[1].zenb) + (3 * znbk[2].zenb) + (4 * znbk[3].zenb);
+            emaitza /= 4;
             return emaitza;
         }
     }
