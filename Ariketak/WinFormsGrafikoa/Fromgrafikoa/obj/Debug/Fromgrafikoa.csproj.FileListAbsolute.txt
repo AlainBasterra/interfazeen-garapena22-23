@@ -1,0 +1,14 @@
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\bin\Debug\Fromgrafikoa.exe.config
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\bin\Debug\Fromgrafikoa.exe
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\bin\Debug\Fromgrafikoa.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\bin\Debug\GrafikoaDll.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\bin\Debug\GrafikoaDll.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.csproj.AssemblyReference.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.Form1.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.Properties.Resources.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.csproj.GenerateResource.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.csproj.CoreCompileInputs.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.csproj.CopyComplete
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.exe
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\Fromgrafikoa\obj\Debug\Fromgrafikoa.pdb

@@ -1,0 +1,8 @@
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.AssemblyReference.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\obj\Debug\KaixoDll.Kaixo.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.GenerateResource.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\obj\Debug\KaixoDll.csproj.CoreCompileInputs.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\bin\Debug\KaixoDll.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\bin\Debug\KaixoDll.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\obj\Debug\KaixoDll.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\KaixoDll\KaixoDll\obj\Debug\KaixoDll.pdb

@@ -1,0 +1,17 @@
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.csproj.AssemblyReference.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.Form1.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.csproj.GenerateResource.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.AssemblyInfoInputs.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.AssemblyInfo.cs
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.csproj.CoreCompileInputs.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.exe
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.deps.json
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.runtimeconfig.json
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\bin\Debug\net6.0-windows\OinarrizkoKalkulagailua.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\refint\OinarrizkoKalkulagailua.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\OinarrizkoKalkulagailua.genruntimeconfig.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\OinarrizkoKalkulagailua\obj\Debug\net6.0-windows\ref\OinarrizkoKalkulagailua.dll

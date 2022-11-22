@@ -1,0 +1,8 @@
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\bin\Debug\AginteKoadroaGrafikoa2.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\bin\Debug\AginteKoadroaGrafikoa2.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\obj\Debug\AginteKoadroaGrafikoa2.csproj.AssemblyReference.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\obj\Debug\AginteKoadroaGrafikoa2.UserControl1.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\obj\Debug\AginteKoadroaGrafikoa2.csproj.GenerateResource.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\obj\Debug\AginteKoadroaGrafikoa2.csproj.CoreCompileInputs.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\obj\Debug\AginteKoadroaGrafikoa2.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\AginteKoadroaGrafikoa2\AginteKoadroaGrafikoa2\obj\Debug\AginteKoadroaGrafikoa2.pdb

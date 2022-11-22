@@ -1,0 +1,14 @@
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe.config
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.exe
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\WinFormsGrafikoa.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\GrafikoaDll.dll
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\bin\Debug\GrafikoaDll.pdb
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.AssemblyReference.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Form1.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.Properties.Resources.resources
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.GenerateResource.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CoreCompileInputs.cache
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.csproj.CopyComplete
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.exe
+C:\Users\basterra.alain\Documents\VisualStudioCommunity\Ariketak\WinFormsGrafikoa\WinFormsGrafikoa\obj\Debug\WinFormsGrafikoa.pdb
