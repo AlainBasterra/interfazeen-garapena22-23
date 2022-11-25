@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using WineShop.Models;
 
 namespace WineShop.Data
 {
@@ -9,5 +10,6 @@ namespace WineShop.Data
             : base(options)
         {
         }
+        public DbSet<WineShop.Models.ArdoaUpeltegi> ArdoaUpeltegi { get; set; }
     }
 }

@@ -1,4 +1,6 @@
-﻿namespace WineShop.Services
+﻿using WineShop.Models;
+
+namespace WineShop.Services
 {
     public interface IArdoaService
     {
