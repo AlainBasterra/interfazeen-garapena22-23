@@ -1,12 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using WineShop.Models;
+using WineShop.Services;
 
 namespace WineShop.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IArdoaService _ardoaService;
 
         public HomeController(ILogger<HomeController> logger)
         {

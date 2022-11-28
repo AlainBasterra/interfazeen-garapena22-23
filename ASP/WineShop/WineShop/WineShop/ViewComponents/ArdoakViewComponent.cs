@@ -12,6 +12,7 @@ namespace WineShop.ViewComponents
         }
         public async Task<IViewComponentResult> InvokeAsync(int id)
         {
+            ViewBag.mota = id;
             return View(await _ardoaService.GetMota(id));
         }
     }

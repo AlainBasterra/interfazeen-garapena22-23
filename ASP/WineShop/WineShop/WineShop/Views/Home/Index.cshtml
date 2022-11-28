@@ -1,7 +1,6 @@
 ﻿@{
     ViewData["Title"] = "Home Page";
 }
-
 <nav class="navbar navbar-expand-lg navbar-light bg-light bg-menua">
     <div class="container-fluid">
         <a class="navbar-brand" href="#">Home</a>
@@ -10,7 +9,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse erlatiboa" id="navbarSupportedContent">
-            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <ul class="navbar-nav mb-2 mb-lg-0">
                 <li class="nav-item dropdown full-width">
                     <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
                        aria-expanded="false">
@@ -20,10 +19,18 @@
 
                 </li>
             </ul>
+            <ul class="navbar-nav mb-2 mb-lg-0">
+                <li class="nav-item dropdown full-width">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown"
+                       aria-expanded="false">
+                        Beltza
+                    </a>
+                    @await Component.InvokeAsync("Ardoak", new { id = 2 })
+                </li>
+            </ul>
         </div>
     </div>
 </nav>
-
 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" arialabel="Slide 1"></button>
@@ -50,3 +57,4 @@
         <span class="visually-hidden">Next</span>
     </button>
 </div>
+
