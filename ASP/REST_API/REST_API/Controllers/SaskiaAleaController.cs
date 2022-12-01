@@ -30,7 +30,7 @@ namespace REST_API.Controllers
         
         // GET: api/SaskiaAlea/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<SaskiaAlea>> GetSaskiaAlea(int id)
+        public async Task<ActionResult<List<SaskiaAlea>>> GetSaskiaAlea(string id)
         {
             return await _saskiaAleaService.GetSaskiaAlea(id);
         }
@@ -74,7 +74,7 @@ namespace REST_API.Controllers
 
         // DELETE: api/SaskiaAlea/5
         [HttpDelete("{id}")]
-        public async Task<IActionResult> DeleteSaskiaAlea(int id)
+        public async Task<IActionResult> DeleteSaskiaAlea(string id)
         {
             var saskiaAlea = await _saskiaAleaService.GetSaskiaAlea(id);
             if (saskiaAlea == null)
@@ -82,7 +82,7 @@ namespace REST_API.Controllers
                 return NotFound();
             }
 
-            await _saskiaAleaService.DeleteSaskiaAlea(saskiaAlea);
+            //await _saskiaAleaService.DeleteSaskiaAlea(saskiaAlea);
 
             return NoContent();
         }

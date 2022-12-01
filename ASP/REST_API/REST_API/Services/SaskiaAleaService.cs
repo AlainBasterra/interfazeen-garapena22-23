@@ -22,10 +22,10 @@ namespace REST_API.Services
         {
             return await _context.SaskiaAlea.ToListAsync();
         }
-        public async Task<SaskiaAlea> GetSaskiaAlea(int id)
+        public async Task<SaskiaAlea> GetSaskiaAlea(string id)
         {
             return await _context.SaskiaAlea
-                .SingleOrDefaultAsync(a => a.Id == id);
+                .Where(a => a.Id == id).ToListAsync();
         }
         public async Task PutSaskiaAlea(SaskiaAlea saskiaAlea)
         {

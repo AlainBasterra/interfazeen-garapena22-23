@@ -27,6 +27,7 @@ builder.Services.AddSession(options =>
 
 //Gure zerbitzuak
 builder.Services.AddScoped<IArdoaService, ArdoaService>();
+builder.Services.AddScoped<ISaskiaService, SaskiaService>();
 
 var app = builder.Build();
 
