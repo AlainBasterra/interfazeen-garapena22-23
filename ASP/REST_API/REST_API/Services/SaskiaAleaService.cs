@@ -25,7 +25,7 @@ namespace REST_API.Services
         public async Task<SaskiaAlea> GetSaskiaAlea(string id)
         {
             return await _context.SaskiaAlea
-                .Where(a => a.Id == id).ToListAsync();
+                .Where(a => a.SaskiaId == id).ToListAsync();
         }
         public async Task PutSaskiaAlea(SaskiaAlea saskiaAlea)
         {
