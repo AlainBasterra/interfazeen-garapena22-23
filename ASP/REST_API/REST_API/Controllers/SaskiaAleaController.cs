@@ -37,9 +37,9 @@ namespace REST_API.Controllers
         // PUT: api/SaskiaAlea/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
-        public async Task<IActionResult> PutSaskiaAlea(int id, SaskiaAlea saskiaAlea)
+        public async Task<IActionResult> PutSaskiaAlea(string id, SaskiaAlea saskiaAlea)
         {
-            if (id != saskiaAlea.Id)
+            if (id != saskiaAlea.SaskiaId)
             {
                 return BadRequest();
             }
@@ -50,7 +50,7 @@ namespace REST_API.Controllers
             }
             catch (DbUpdateConcurrencyException)
             {
-                if (!SaskiaAleaExists(id))
+                if (!SaskiaAleaExists(saskiaAlea.Id))
                 {
                     return NotFound();
                 }

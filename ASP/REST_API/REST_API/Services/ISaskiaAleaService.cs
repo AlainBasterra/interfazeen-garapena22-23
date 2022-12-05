@@ -11,7 +11,7 @@ namespace REST_API.Services
     public interface ISaskiaAleaService
     {
         Task<List<SaskiaAlea>> GetSaskiaAleak();
-        Task<SaskiaAlea> GetSaskiaAlea(string id);
+        Task<List<SaskiaAlea>> GetSaskiaAlea(string id);
         Task PutSaskiaAlea(SaskiaAlea saskiaAlea);
         Task PostSaskiaAlea(SaskiaAlea saskiaAlea);
         Task DeleteSaskiaAlea(SaskiaAlea saskiaAlea);
