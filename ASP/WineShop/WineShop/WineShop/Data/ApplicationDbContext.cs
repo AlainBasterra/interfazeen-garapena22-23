@@ -11,5 +11,6 @@ namespace WineShop.Data
         {
         }
         public DbSet<WineShop.Models.ArdoaUpeltegi> ArdoaUpeltegi { get; set; }
+        public DbSet<WineShop.Models.BezeroaEskaera> BezeroaEskaera { get; set; }
     }
 }

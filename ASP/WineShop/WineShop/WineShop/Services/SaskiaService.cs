@@ -76,6 +76,38 @@ namespace WineShop.Services
             }
             return saskiaAleaList;
         }
+        public async Task EskaeraBezeroaGehitu(BezeroaEskaera bezeroaEskaera)
+        {
+            Uri rutaBezeroEskaera = new Uri("https://localhost:44367/api/BezeroaEskaera/");
+            using (var httpClient = new HttpClient())
+            {
+                StringContent content = new StringContent(JsonConvert.SerializeObject(bezeroaEskaera), Encoding.UTF8,
+               "application/json");
+                var response = await httpClient.PostAsync(rutaBezeroEskaera, content);
+                response.EnsureSuccessStatusCode();
+            }
+        }
+        public async Task EskaeraSortu(BezeroaEskaera bezeroaEskaera, string saskiaId)
+        {
+            var cartItems = await SaskiaLortuAleak(saskiaId);
+            foreach (var item in cartItems)
+            {
+                var erosketa = new Erosketa
+                {
+                    ArdoaId = item.ArdoaId,
+                    BezeroaEskaeraId = bezeroaEskaera.Id,
+                    Kantitatea = item.Kantitatea
+                };
+                Uri rutaErosketa = new Uri("https://localhost:44367/api/Erosketa/");
+                using (var httpClient = new HttpClient())
+                {
+                    StringContent content = new StringContent(JsonConvert.SerializeObject(erosketa), Encoding.UTF8,
+                   "application/json");
+                    var response = await httpClient.PostAsync(rutaErosketa, content);
+                    response.EnsureSuccessStatusCode();
+                }
+            }
+        }
 
     }
 }
